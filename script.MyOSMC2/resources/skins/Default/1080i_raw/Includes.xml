@@ -1,0 +1,9 @@
+<includes>
+<include name="test1">
+	<font>this is a test</font>
+</include>
+<include name="test2">
+	<elem1 f='aaaa'> contents</elem1>
+	<elem2>zxlkncosd</elem2>
+</include>
+</includes>

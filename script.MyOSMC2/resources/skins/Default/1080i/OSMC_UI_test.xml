@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<window>
+	<elem1 f="aaaa">contents</elem1>
+	<elem2>zxlkncosd</elem2>
+	<backgroundcolor>ff203b4c</backgroundcolor>
+	<font>this is a test</font>
+	<defaultcontrol always="true">500</defaultcontrol>
+	<views>500</views>
+	<controls>
+		<control type="image">
+			<left>0</left>
+			<elem1 f="aaaa">contents</elem1>
+			<elem2>zxlkncosd</elem2>
+		</control>
+	</controls>
+</window>
